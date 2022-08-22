@@ -9,8 +9,6 @@ For the generation of the attributes, we propose 4 cases using a univariate or m
 
 For all datasets, 10 seeds where used. All data files were generated using Matlab.
 
-The code to reproduce the data will be available in future versions.
-
 Synthetic network 1 was based on Sheikholeslami and Giannakis (2018), doi:10.1109/TSP.2018.2871383.
 
 Synthetic network 2 was based on Tang et al. (2020), doi:10.1007/s00180-019-00909-8, with the addition of time steps.
